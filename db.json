@@ -111,6 +111,13 @@
       "category": "Food",
       "amount": "-24.99",
       "id": 16
+    },
+    {
+      "date": "2022-09-29",
+      "description": "Evans Kipyenga",
+      "category": "Art",
+      "amount": "1000",
+      "id": 17
     }
   ]
 }
